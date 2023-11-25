@@ -1,0 +1,23 @@
+{
+  "name": "calc-operations",
+  "version": "1.0.0",
+  "description": "It perform all calculation operations",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MominaAmir/NPM-Package.git"
+  },
+  "keywords": [
+    "calculator"
+  ],
+  "author": "Momina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MominaAmir/NPM-Package/issues"
+  },
+  "homepage": "https://github.com/MominaAmir/NPM-Package#readme",
+  "devDependencies": {}
+}
